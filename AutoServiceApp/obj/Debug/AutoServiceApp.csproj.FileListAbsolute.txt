@@ -1,0 +1,12 @@
+C:\Users\student\source\repos\AutoServiceApp\bin\Debug\AutoServiceApp.exe.config
+C:\Users\student\source\repos\AutoServiceApp\bin\Debug\AutoServiceApp.exe
+C:\Users\student\source\repos\AutoServiceApp\bin\Debug\AutoServiceApp.pdb
+C:\Users\student\source\repos\AutoServiceApp\obj\Debug\AutoServiceApp.csproj.AssemblyReference.cache
+C:\Users\student\source\repos\AutoServiceApp\obj\Debug\AutoServiceApp.Form1.resources
+C:\Users\student\source\repos\AutoServiceApp\obj\Debug\AutoServiceApp.FormManageClients.resources
+C:\Users\student\source\repos\AutoServiceApp\obj\Debug\AutoServiceApp.FormManageWorks.resources
+C:\Users\student\source\repos\AutoServiceApp\obj\Debug\AutoServiceApp.Properties.Resources.resources
+C:\Users\student\source\repos\AutoServiceApp\obj\Debug\AutoServiceApp.csproj.GenerateResource.cache
+C:\Users\student\source\repos\AutoServiceApp\obj\Debug\AutoServiceApp.csproj.CoreCompileInputs.cache
+C:\Users\student\source\repos\AutoServiceApp\obj\Debug\AutoServiceApp.exe
+C:\Users\student\source\repos\AutoServiceApp\obj\Debug\AutoServiceApp.pdb
